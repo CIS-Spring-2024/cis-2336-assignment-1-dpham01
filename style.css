@@ -78,6 +78,7 @@ aside {
     background-color: #eee;
     padding: 10px;
     margin-top: 30px;
+    text-align: center;
 }
 
 /* Link Styles */
@@ -174,4 +175,14 @@ form h1{
 /* Hover effect */
 #submit:hover {
     background-color: #45a049; /* Darker green color on hover */
+}
+
+.diningImg {
+    height: 200px;
+    width: 300px;
+}
+
+.welcome {
+    padding: 10px 0;
+    text-align: center;
 }

@@ -39,6 +39,7 @@ section {
 
 h2 {
     color: red;
+    font-size: 40px;
 }
 
 img {
@@ -112,4 +113,11 @@ a:hover {
 
 .about {
     text-align: center;
+}
+
+#personal {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    box-shadow: 0vmin 1vmin 4vmin rgb(0 0 0 / 80%);
 }
